@@ -38,10 +38,6 @@ Component {
 
     </section>
 
-    <div className="footer">      
-       FOOTER
-    </div>
-
     </div>
     )
   }
